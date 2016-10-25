@@ -4,7 +4,9 @@
   "description": "",
   "main": "cliente.js",
   "dependencies": {
-    "net": "^1.0.2"
+    "dgram": "^1.0.1",
+    "net": "^1.0.2",
+    "node-json-rpc": "0.0.1"
   },
   "devDependencies": {},
   "scripts": {
