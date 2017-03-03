@@ -1,17 +1,21 @@
 {
-  "name": "socket",
+  "name": "tads-code",
   "version": "1.0.0",
   "description": "",
   "main": "cliente.js",
   "dependencies": {
     "dgram": "^1.0.1",
     "net": "^1.0.2",
-    "node-json-rpc": "0.0.1"
+    "node-json-rpc": "0.0.1",
+    "body-parser": "^1.16.1",
+    "express": "^4.14.1",
+    "node-restful": "^0.2.6",
+    "request": "^2.79.0"
   },
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Luiz",
   "license": "ISC"
 }
